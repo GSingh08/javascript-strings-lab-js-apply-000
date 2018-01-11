@@ -14,5 +14,5 @@ it('interpolates a string in `conversation`', function() {
 
 
 function greeting(){
-  return "Hello, everybody!";
+  return 'Hello, everybody!';
 }
